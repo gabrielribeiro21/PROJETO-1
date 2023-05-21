@@ -1,0 +1,37 @@
+.coluna .text-1 {
+    display: flex;
+    width: 15%;
+    position: relative;
+    left: 43%;
+    font-weight: bold;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.coluna .text-2 {
+    display: flex;
+    width: 11%;
+    font-size: 12px;
+    flex-wrap: wrap;
+    position: relative;
+    left: 45%;
+    text-align: center;
+    color: #ccc;
+    flex-wrap: wrap;
+}
+
+.coluna {
+    border: 1px solid white;
+    border-radius: 1%;
+    background-color: white;
+}
+
+img {
+    display: flex;
+    width: 220px;
+    height: 220px;
+    border-radius: 5%;
+    position: relative;
+    left: 43%;
+    margin-top: 10px;
+}
