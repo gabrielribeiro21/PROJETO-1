@@ -1,0 +1,16 @@
+@media (max-width: 576px) {
+    .qr-code {
+        margin-left: 29px;
+        padding-bottom: 25px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .text-1 {
+        font-size: 20px;
+    }
+
+    .text-2 {
+        font-size: 17px;
+    }
+}
